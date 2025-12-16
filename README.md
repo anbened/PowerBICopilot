@@ -1,4 +1,5 @@
-# Power BI Copilot – A Practical Guide to What Copilot Sees, Understands, and Cannot Know
+# Power BI Copilot
+# A Practical Guide to What Copilot Sees, Understands, and Cannot Know
 
 This repository hosts **practical, architecture-driven PDF documents** focused on **Copilot in Power BI**.
 
