@@ -1,6 +1,11 @@
 # Power BI Copilot
 # A Practical Guide to What Copilot Sees, Understands, and Cannot Know
 
+[![GitHub stars](https://img.shields.io/github/stars/anbened/PowerBICopilot?style=flat-square)](https://github.com/anbened/PowerBICopilot/stargazers)
+[![GitHub downloads](https://img.shields.io/github/downloads/anbened/PowerBICopilot/total?style=flat-square)](https://github.com/anbened/PowerBICopilot/releases)
+[![License](https://img.shields.io/github/license/anbened/PowerBICopilot?style=flat-square)](https://github.com/anbened/PowerBICopilot/blob/main/LICENSE)
+
+
 This repository hosts **practical, architecture-driven PDF documents** focused on **Copilot in Power BI**.
 
 The purpose of this workspace is to provide **clear, honest, and technically grounded material** for architects, BI professionals, and decision makers who want to understand how Copilot really behaves in enterprise scenarios — beyond prompts, demos, or marketing narratives.
