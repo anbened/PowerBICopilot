@@ -9,11 +9,11 @@ The purpose of this workspace is to provide **clear, honest, and technically gro
 
 The repository currently includes the following documents:
 
-- **PowerBI_Copilot_Whitepaper_EN.pdf**  
+- **[PowerBI_Copilot_Whitepaper_EN.pdf](PowerBI_Copilot_Whitepaper_EN.pdf)**  
   English version of the whitepaper.  
   Intended for international teams, architects, and decision makers operating in enterprise and cross-country contexts.
 
-- **PowerBI_Copilot_Whitepaper_IT.pdf**  
+- **[PowerBI_Copilot_Whitepaper_IT.pdf](PowerBI_Copilot_Whitepaper_IT.pdf)** 
   Italian version of the same content.  
   Intended for Italian-speaking professionals and local enablement scenarios.
 
